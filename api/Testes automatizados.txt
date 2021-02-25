@@ -1,0 +1,10 @@
+Testes automatizados
+
+1. Testes Unitários
+
+2. Testes de Integração
+
+  -> request -> routes -> controller -> repository
+  <- repository <- controller <- response
+
+3. Testes Ponta a Ponta (E2E) = Frontend
